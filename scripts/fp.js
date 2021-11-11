@@ -38,10 +38,10 @@ let faveMovies = ["Auntie Mame", "Splash", "Selena", "Clueless"]
 // const sentenceMaker = () => {
 //   const sentence = stringOne + stringTwo + stringThree
 //   return sentence
-//   //console.log(sentence) <-- this works but my return statement does not??
+//  // console.log(sentence) <-- this works but my return statement does not??
 // }
 
-// // Invoke the function and console log the output
+// //Invoke the function and console log the output
 // sentenceMaker()
 
 // Create a function that console logs the multiplicative of 2 numbers
